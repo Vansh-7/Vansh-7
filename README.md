@@ -74,25 +74,21 @@ vansh@github:~$ cat ./about_me.txt
 ## `> achievements`
 
 ```python
-"achievements" = {
-        "LeetCode Knight ⚔️ (Peak 1916 | 580+ solved | Top 2% in Global Weekly Contest 508)",
-        "Selected for Amazon ML Summer School (Top 3k / 130k+ applicants)",
-        "Ranked Top 1500 Globally in Google's Big Code Challenge"
-}
-"leadership" = "Mentored 50+ students at ACM Thapar & managed 60+ devs across 3 major hackathons",
-```
-
----
-
-## `> currently_building`
-
-```python
-now = {
-    "deepening": ["systems design", "retrieval infrastructure", "production AI"],
-    "shipping": "small, measurable engineering improvements",
-    "looking_for": "SDE, AI/ML, and GenAI role",
+profile = {
+    "achievements": [
+        "LeetCode Knight ⚔️ (Peak 1916 | 580+ solved | Top 2% in Weekly Contest 508)",
+        "Amazon ML Summer School (Top 3k / 130k+ applicants)",
+        "Google Big Code Challenge (Top 1500 globally)",
+    ],
+    "leadership": "Mentored 50+ students at ACM Thapar and managed 60+ developers across 3 hackathons",
+    "currently_building": {
+        "deepening": ["systems design", "retrieval infrastructure", "production AI"],
+        "shipping": "small, measurable engineering improvements",
+        "looking_for": "SDE, AI/ML, and GenAI roles",
+    },
 }
 ```
+
 ---
 
 ## `> github_stats`
@@ -111,9 +107,9 @@ now = {
 ## `> contribution_snake`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vansh-7/Vansh-7/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vansh-7/Vansh-7/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated yellow contribution graph snake" src="https://raw.githubusercontent.com/Vansh-7/Vansh-7/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vansh-7/Vansh-7/output/github-contribution-grid-snake-dark.svg?v=f6cf57" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vansh-7/Vansh-7/output/github-contribution-grid-snake.svg?v=f6cf57" />
+  <img alt="Animated yellow contribution graph snake" src="https://raw.githubusercontent.com/Vansh-7/Vansh-7/output/github-contribution-grid-snake.svg?v=f6cf57" />
 </picture>
 
 <div align="center">
