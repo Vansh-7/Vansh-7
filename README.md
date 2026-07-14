@@ -104,6 +104,14 @@ profile = {
 
 ---
 
+## `> contribution_graph`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh-7&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6" alt="Vansh's GitHub contribution graph" />
+</div>
+
+---
+
 ## `> contribution_snake`
 
 <picture>
