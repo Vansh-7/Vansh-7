@@ -59,7 +59,7 @@ vansh@github:~$ cat ./about_me.txt
 
 **Backend & application**
 
-<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,vite,flask&theme=dark&perline=7" alt="FastAPI, React, Node.js, Vite, and Flask" />
+<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,vite&theme=dark&perline=7" alt="FastAPI, React, Node.js, Vite, and Flask" />
 
 **Infrastructure & developer tools**
 
