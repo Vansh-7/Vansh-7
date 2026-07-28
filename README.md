@@ -101,7 +101,7 @@ profile = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vansh-7&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.vercel.app/?user=Vansh-7&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
 </div>
 
 ---
