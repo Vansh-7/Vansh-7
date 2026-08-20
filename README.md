@@ -21,7 +21,7 @@
   <a href="https://www.codechef.com/users/vansh_7"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
 
-<p><img src="https://komarev.com/ghpvc/?username=Vansh-7&style=for-the-badge&color=F6CF57&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile views" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=Vansh-7&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile views" /></p>
 
 </div>
 
